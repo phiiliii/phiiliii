@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Philipose Alexander</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Philipose Alexander</h1>
 <h3 align="center">A novice coder who loves Tech and Photography</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phiiliii&label=Profile%20views&color=03dd6d&style=flat" alt="phiiliii" /> </p>
